@@ -1,10 +1,10 @@
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/commonutils/Waits.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/pages/ProductPage.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/commonutils/CommonUtils.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/steps/Step.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/pages/LoginPage.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/pages/Sidebar.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/TestRunner.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/commonutils/Asserts.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/stepdefs/StepDef.java
-/Users/sayantansaha/Downloads/QAT.AI/src/test/java/commonutils/DatabaseUtil.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\commonutils\Waits.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\pages\LoginPage.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\pages\Sidebar.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\commonutils\Asserts.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\stepdefs\StepDef.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\commonutils\DatabaseUtil.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\pages\ProductPage.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\commonutils\CommonUtils.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\steps\Step.java
+C:\Users\sayansah\OneDrive - Capgemini\Documents\Swaglabs-Automation\src\test\TestRunner.java

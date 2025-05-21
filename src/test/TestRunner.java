@@ -23,10 +23,10 @@ import commonutils.*;
         "html:target/reports/html.html" // Generates HTML report
     },
     monochrome = true, // Makes console output more readable by removing ANSI colors
-    features = "src/test/java/resources", // Path to feature files
+    features = "src/test/features", // Path to feature files
     glue = "steps", // Path to step definitions
     dryRun = false, // Set to true to check if all steps have definitions without executing them
-    tags = "@Swag_Labs" // Executes scenarios with this tag
+    tags = "@Swag_Labs" // Executes scenarios with t@terhis tag
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
 
