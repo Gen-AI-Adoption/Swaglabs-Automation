@@ -14,7 +14,6 @@ import org.openqa.selenium.interactions.Actions;
 
 import base.DriverBase;
 
-
 public class CommonUtils extends DriverBase{
 
     public static final Logger logger = LogManager.getLogger(CommonUtils.class);
@@ -67,6 +66,32 @@ public class CommonUtils extends DriverBase{
         catch(Exception e){
             logger(e);
         }
+    }
+
+    public static void doubleClick(WebElement element){
+        try{
+            new Actions(getDr())
+            .doubleClick(element)
+            .build()
+            .perform();
+        }
+        catch(Exception e){
+            logger(e);
+        }
+    }
+
+    public static void dragnDrop(WebElement source, WebElement target){
+
+        try{
+            new Actions(getDr()).
+            clickAndHold(source).
+            moveToElement(target).
+            release(target).
+            build().perform();
+        } catch(Exception e){
+            logger(e);
+        }
+
     }
 
     public static void scrollAction(WebElement element) {
